@@ -1,3 +1,6 @@
+/**
+* A simple kotlin program to print a triangle of stars.
+*/
 fun main() {
    val n = 5
    for (i in 0..<n){
